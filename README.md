@@ -1,6 +1,6 @@
-### Hi, I like building tools for creators.
+### Hi, I build for creators.
 
-I code in Swift, Metal and learning C++.
+I code in Swift & Metal. Currently learning C++.
 
 ## iOS Apps
 
