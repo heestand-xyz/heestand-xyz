@@ -1,6 +1,6 @@
 ### Hi, I build for creators.
 
-I code in Swift & Metal, building apps for the creation of video and graphics. I have a background in projection mapping and visual programming.
+I build in SwiftUI & Metal, making apps for the creation of video and graphics. I have a background in projection mapping and visual programming.
 
 ## Apps
 
